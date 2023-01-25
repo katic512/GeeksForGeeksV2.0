@@ -1,8 +1,6 @@
 https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1?page=1&company[]=Google&sortBy=difficult
 Find triplets with zero sum
-BasicAccuracy: 25.81%Submissions: 204K+Points: 1
-Lamp
-Struggling with Cracking Interviews? Click here to end your problems!
+
 
 Given an array arr[] of n integers. Check whether it contains a triplet that sums up to zero. 
 
